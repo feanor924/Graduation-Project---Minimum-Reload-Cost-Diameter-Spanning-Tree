@@ -1,7 +1,7 @@
 # Graduation-Project---Minimum-Reload-Cost-Diameter-Spanning-Tree
 Used Java, JavaFX, GraphStream API
 
-I designed a algorithm which use different version of MST. 
+I designed an algorithm which use different version of MST. 
 
 It generally fails on creating Minimum Diamater Spanning tree.
 
